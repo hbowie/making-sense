@@ -6,7 +6,7 @@ Seq: <seq>
 
 Level: <level: 1 - Book Title; 2 - Topic; 3 - Subtopic; 4 - Detail; > 
 
-Class: <class>
+Class: <class:  application, author, biblio, cover, def, intro, quote, subtopic, text, title, topic, topic-with-image, work > 
 
 Tags: <tags> 
 
@@ -44,7 +44,7 @@ Publisher:
 
 Publisher City:  
 
-Attribution: <longtext>
+Attribution: <attribution> 
 
 Timestamp:  
 
