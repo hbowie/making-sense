@@ -1,6 +1,6 @@
 Title: Making Sense content
 
-Link: /Users/hbowie/Sites/Making Sense/content
+Link: /Users/hbowie/Sites/making-sense/content
 
 Sort Parm: 1
 
@@ -8,7 +8,7 @@ Sort Descending: false
 
 Other Fields Allowed: false
 
-Last Index Selected: 41
+Last Index Selected: 0
 
 Mirror Auto Index: false
 
@@ -21,4 +21,6 @@ Streamlined Reading: true
 MathJax: false
 
 Shortcut: mks
+
+Web Book Folder: /Users/hbowie/Sites/making-sense/web-book
 
