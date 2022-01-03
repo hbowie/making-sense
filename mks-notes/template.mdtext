@@ -4,7 +4,7 @@ AKA: <aka>
 
 Seq: <seq> 
 
-Level: <level: 1 - Book Title; 2 - Topic; 3 - Subtopic; 4 - Detail; > 
+Level: <level: 1 - Book Title; 2 - Section; 3 - Topic; 4 - Subtopic; 5 - Detail; > 
 
 Class: <class:  application, author, biblio, cover, def, intro, quote, subtopic, text, title, topic, topic-with-image, work > 
 
